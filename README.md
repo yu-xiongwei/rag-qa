@@ -26,6 +26,8 @@
 问：什么是 RAG？（笔记里没有）
 答：根据提供的资料，我无法回答这个问题。
 
+代码终端输出内容：https://ibb.co/jvb4BtQX
+
 ## 两个版本对比
 
 |  | 手写版 rag_with_ai.py | LangChain 版 langchain_rag.py |
